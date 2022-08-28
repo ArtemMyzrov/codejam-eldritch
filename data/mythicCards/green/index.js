@@ -1,5 +1,6 @@
-import greenCardsAssets from '../../../assets/MythicCards/green';
+//import greenCardsAssets from '../../../assets/MythicCards/green';
 
+var greenCardsAssets = {};
 const cardsData = [
   {
     id: 'green1',

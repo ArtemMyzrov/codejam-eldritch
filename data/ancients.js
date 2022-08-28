@@ -1,5 +1,5 @@
-import Ancients from '../assets/Ancients/index'
-
+//import Ancients from '../assets/Ancients/index.js'
+var Ancients = {};
 const ancientsData = [
   {
     id: 'azathoth',

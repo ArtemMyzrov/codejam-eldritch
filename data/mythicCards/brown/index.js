@@ -1,4 +1,6 @@
-import brownCardsAssets from '../../../assets/MythicCards/brown';
+//import brownCardsAssets from '../../../assets/MythicCards/brown.index.js';
+
+var brownCardsAssets = {};
 
 const cardsData = [
   {
