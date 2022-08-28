@@ -40,6 +40,11 @@ code {
     justify-content: center
 }
 
+.difficulty:hover{
+    
+    background-color: green;
+}
+
 .difficulty-container .difficulty {
     border: 2px solid purple;
     box-sizing: border-box;

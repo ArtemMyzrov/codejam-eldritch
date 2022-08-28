@@ -119,6 +119,11 @@ deck.addEventListener('click', () => {
     renderStages();
 });
 
+ancient.addEventListener('click' , () => {
+    ancient.classList.toggle('active')
+});
+
+
 
 
 
