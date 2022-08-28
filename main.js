@@ -1,7 +1,7 @@
 import ancientsData from "./data/ancients.js";
-import * as blue from "./data/MythicCards/blue/index.js";
-import * as green from "./data/MythicCards/green/index.js";
-import * as brown from "./data/MythicCards/brown/index.js";
+import * as blue from "./data/mythicCards/blue/index.js";
+import * as green from "./data/mythicCards/green/index.js";
+import * as brown from "./data/mythicCards/brown/index.js";
 
 const ancient = document.querySelector('.ancient-card');
 const level = document.querySelectorAll('.difficulty');
